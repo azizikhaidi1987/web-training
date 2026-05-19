@@ -1,6 +1,6 @@
 <?php
 //Variables always start with $
-$name = Älice";
+$name = "Alice";
 $age = 25;
 $isAdmin = true;
 
