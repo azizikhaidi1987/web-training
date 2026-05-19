@@ -17,7 +17,7 @@ else {
 
 //Arrays
 $skills = ["HTML","CSS"];
-foreach ($skills as &s){
+foreach ($skill as &s){
     echo "<li>" . $s . "</li>\n";
 }
 
