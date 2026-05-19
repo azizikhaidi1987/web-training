@@ -5,7 +5,7 @@ $age = 25;
 $isAdmin = true;
 
 //Output to page
-echo "Hello".$name;
+echo "Hello". $name . "\n";
 
 //Conditionals
 if ($age>= 18){
