@@ -8,8 +8,8 @@ $isAdmin = true;
 echo "Hello".$name;
 
 //Conditionals
-if ($age>=18){
-    echo Adult";
+if ($age>= 18){
+    echo "Adult";
 }
 else {
         echo "Minor";
